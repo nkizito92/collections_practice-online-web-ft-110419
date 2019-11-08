@@ -27,7 +27,7 @@ end
 def sort_array_char_count(array) 
 
  array.collect do |strings|
-     strings.sort
+     strings
   end 
 end 
 
