@@ -1,5 +1,5 @@
 def sort_array_asc(array) 
- array = [3,4,9,1,2,8,7] 
+
  array.sort do |a, b|
    if a < b 
      -1
