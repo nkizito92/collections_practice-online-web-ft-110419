@@ -8,4 +8,5 @@ def sort_array_asc
      elsif a == b 
      0 
    end
+ end 
 end 
