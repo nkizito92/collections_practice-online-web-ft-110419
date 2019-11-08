@@ -30,4 +30,5 @@ def sort_array_char_count(array)
      strings
   end 
 end 
+sort_array_char_count.sort
 
